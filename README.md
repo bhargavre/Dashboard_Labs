@@ -11,10 +11,10 @@ shows the share price variation during a breach for all the companies. A first g
 The second dashboard:https://public.tableau.com/views/LabAssignment3/Dashboard2?:embed=y&:display_count=yes
 picks up 4 companies which have had their share prices differently affected by data breaches. Apple and Facebook shows a constant increase in their share price irrespective of the breach. TalkTalk on the other had was affected badly while MSPYX didnt show any change at all. So it would be intersting to see how many companies fall in each of these categories.
 
-The third and final dashboard:https://public.tableau.com/views/LabAssignment3/Dashboard3?:embed=y&:display_count=yes 
-shows the overall data records stolen vs the share price without the clutter of the first. The pie chart shows us the percentage of companies in each of the categories of how the breach changed their share price. If we ignore the no-data and breaches before IPO then we can see that only in 20% of the companies there was a decrease in share price and for the rest of the companies the share price was either same or it increased. 
+The third and final dashboard:https://public.tableau.com/views/Book1_24462/Dashboard3?:embed=y&:display_count=yes&publish=yes
+shows the overall data records stolen vs the share price without the clutter of the first. The bar graph shows us the percentage and number of companies in each of the categories of how the breach changed their share price. If we ignore the no-data and breaches before IPO then we can see that only in 20% of the companies there was a decrease in share price and for the rest of the companies the share price was either same or it increased. From this graph we can also say that the increase in overall stock is due to the performance of the companies and not due to data breaches. Data breaches is simply not cared about as we can gather from the news.
 
-In conclusion, We can say that the companies whose share price decreased were really outliers and financial market does not really punish security breaches.
+In conclusion, We can say that the companies whose share price decreased were really outliers and financial market does not really punish security breaches. 
 
 
 
