@@ -1,4 +1,24 @@
-LATEST ASSIGNMENT
+LATEST ASSIGNMENT - 3
+“The financial markets do not punish security breaches.”
+
+The 2017 Cost of Data Breach Study shows that $141 is the average cost per lost or stolen records and $3.62 million is the average total cost of data breach. The costs include law suit costs, the payment needed to be made to customers who lost data and also cost to take measures for the breach.  
+
+This might lead us to believe that a data breach costs the company a lot of money and has to have a big effect on the share holder's belief of the company. Let us see if this is the case by observing the share price before and after a data breach.
+
+The first dashboard: https://public.tableau.com/views/LabAssignment3/Dashboard1?:embed=y&:display_count=yes&publish=yes
+shows the share price variation during a breach for all the companies. A first glace shows that there is no visible effect of the breaches on share prices. But the graph is too crowded with too much data.
+
+The second dashboard:https://public.tableau.com/views/LabAssignment3/Dashboard2?:embed=y&:display_count=yes
+picks up 4 companies which have had their share prices differently affected by data breaches. Apple and Facebook shows a constant increase in their share price irrespective of the breach. TalkTalk on the other had was affected badly while MSPYX didnt show any change at all. So it would be intersting to see how many companies fall in each of these categories.
+
+The third and final dashboard:https://public.tableau.com/views/LabAssignment3/Dashboard3?:embed=y&:display_count=yes 
+shows the overall data records stolen vs the share price without the clutter of the first. The pie chart shows us the percentage of companies in each of the categories of how the breach changed their share price. If we ignore the no-data and breaches before IPO then we can see that only in 20% of the companies there was a decrease in share price and for the rest of the companies the share price was either same or it increased. 
+
+In conclusion, We can say that the companies whose share price decreased were really outliers and financial market does not really punish security breaches.
+
+
+
+ASSIGNMENT
 Lab 2 - “Security breaches are becoming less severe”
 
 Intermediate Version 1: https://public.tableau.com/views/labassignment2/Dashboard2?:embed=y&:display_count=yes&publish=yes
