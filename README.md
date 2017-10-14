@@ -1,3 +1,11 @@
+LATEST ASSIGNMENT - 4
+Claim - The MSIS graduates from Santa Clara University - Leavey School of Business are best trained and equipped to compete in the industry
+
+Information in jupyter file Lab 4 has the evidence for the claim.
+
+
+
+
 LATEST ASSIGNMENT - 3
 “The financial markets do not punish security breaches.”
 
