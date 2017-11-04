@@ -46,14 +46,15 @@ Then the focus shifted to the migration paths. The paths in which the migrations
 
 ![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Redesign/Dashboard%203.png)
 
+(Tableau Public): https://public.tableau.com/views/Redesign-GlobalFlowofMigration/Dashboard3?:embed=y&:display_count=yes&publish=yes
+
+
 The final one that addresses all these points, shows the top 5 countries where people migrated to and also shows from which countries they come from. And also the top 5 countries where people emigrate out of and the countries they go to. Choosing the top 5 was done by looking at top 10, 20 countries. It was observed that beyond the top 5 the numbers from the other countries were quite insignificant. 
 For example if one looks at the year 1995, it is very clear to see that United States was the country where most of the immigrants moved to. And It is also clear that the most number of people in this migration came from Mexico, Thailand, Guatemala and Philippines 
 With these numbers from this chart we can now correlate other information with respect to migration. As one example that was stated above about the innovations(patents), we can get the number of immigrants into US from China and India and correlate it to the contribution of migrants from these two countries in the field of innovation. 
 
+Below are some examples of such correlations. 
 ![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Redesign/Dashboard%202.png)
-
-This is just one such correlation. Some of the others are shown here
-
 
 ## Conclusion
 
