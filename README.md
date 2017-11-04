@@ -45,7 +45,7 @@ We can also say that the companies whose share price decreased were really outli
 
 
 
-LATEST ASSIGNMENT - 4
+## LATEST ASSIGNMENT - 4
 Claim - The MSIS graduates from Santa Clara University - Leavey School of Business are best trained and equipped to compete in the industry
 
 Information in jupyter file Lab 4 has the evidence for the claim.
