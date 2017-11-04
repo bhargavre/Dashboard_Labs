@@ -1,4 +1,5 @@
-# LATEST ASSIGNMENT - 7 “The financial markets do not punish security breaches.”
+# LATEST ASSIGNMENT - 7 
+## “The financial markets do not punish security breaches.”
 
 
 ## Introduction
@@ -30,7 +31,7 @@ However, this does not really show the change in stock due to data breaches for 
 ## The Redesigned visualization
 
 (add the pic here)
-(Tableau link here)
+
 
 This visualization is simply an extension of the previous visualization as there is a addition of companies whose stock price has incurred change around the data breach period. This particular example charts show that 
 + Apple's and Facebook's share price continued to increase despite of data breach.
