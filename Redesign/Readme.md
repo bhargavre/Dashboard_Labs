@@ -62,13 +62,23 @@ The claim of the visualization is flow of migration. And the idea behind the red
 
 ## References
 http://conversableeconomist.blogspot.in/2014/01/
+
 http://voxeu.org/article/global-economic-slumps-and-migration
+
 http://www.nber.org/papers/w13229.pdf
+
 http://www.pewhispanic.org/2015/09/28/chapter-3-the-changing-characteristics-of-recent-immigrant-arrivals-since-1970/
+
 http://www.global-migration.info/
+
 https://en.wikipedia.org/wiki/Human_migration
+
 https://www.nap.edu/read/12860/chapter/12
+
 http://peoplemov.in/#t_AR
+
 http://flow.mmg.mpg.de/
+
 http://metrocosm.com/global-immigration-map/
+
 http://www.iom.int/world-migration
