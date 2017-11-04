@@ -19,9 +19,9 @@ The Goal here is to redesign the previously made dashboard to a more comprehensi
 
 ## About the previous visualization
 
-(add pic here)
+![Alt Text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Dashboard%203.png)
 
-https://public.tableau.com/views/Book1_24462/Dashboard3?:embed=y&:display_count=yes&publish=yes
+Tableau link: https://public.tableau.com/views/Book1_24462/Dashboard3?:embed=y&:display_count=yes&publish=yes
 
 IT is an amazing visualization that shows overall data records stolen vs the share price without the clutter of the first. The bar graph shows us the percentage and number of companies in each of the categories of how the breach changed their share price. If we ignore the no-data and breaches before IPO then we can see that only in 20% of the companies there was a decrease in share price and for the rest of the companies the share price was either same or it increased. From this graph we can also say that the increase in overall stock is due to the performance of the companies and not due to data breaches.
 
@@ -30,8 +30,9 @@ However, this does not really show the change in stock due to data breaches for 
 
 ## The Redesigned visualization
 
-(add the pic here)
+![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Final%20Dashboard.png)
 
+Tableau link: https://public.tableau.com/views/Lab7-Redesign/FinalDashboard?:embed=y&:display_count=yes&publish=yes
 
 This visualization is simply an extension of the previous visualization as there is a addition of companies whose stock price has incurred change around the data breach period. This particular example charts show that 
 + Apple's and Facebook's share price continued to increase despite of data breach.
