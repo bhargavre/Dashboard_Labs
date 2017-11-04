@@ -3,14 +3,11 @@
 Human migration has always been part of the human history. The places on earth are as varied as they are similar. Humans have moved from one place to another in search of better food, climate and living conditions. In all the years of human history this aspect of human migration has not changed. It is a very interesting subject with lots of papers written on how human migration has happened over the years and how they have affected human life. The amount of data available is enormous. That is what makes it very interesting and challenging. 
 
 
-## Original Visualization
-
-
 ## My views on this visualization
 
 The Global Flow of People is an excellent visualization of this migration. What stands out when one looks at this visualization is the fact that there have been so many migrations from many different regions. It leaves you with a proof that people have migrated from different regions all through time. This visualization uses javascript that gives it an advantage of having a more advanced GUI.
 
-(original image)
+![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Redesign/Global%20flow%20original.PNG)
 
 However, this visualization does not exactly show the direction of flow.
 Though interactive the information is hard to glean. 
