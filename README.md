@@ -3,6 +3,7 @@
 
 
 ## Introduction
+
 The 2017 Cost of Data Breach Study shows that $141 is the average cost per lost or stolen records and $3.62 million is the average total cost of data breach. The costs include law suit costs, the payment needed to be made to customers who lost data and also cost to take measures for the breach.
 This might lead us to believe that a data breach costs the company a lot of money and has to have a big effect on the share holder's belief of the company.
 
@@ -15,6 +16,15 @@ This visualization is created to support the claim that the financial markets do
 ## Redesign Goal
 
 The Goal here is to redesign the previously made dashboard to a more comprehensive and perceptive visualization.
+
+
+### Data Wrangling and Reproducibility
+
+The Data Wrangling is done on Python which can be seen in the jupyter notebook (Lab7.ipynb) uploaded above. 
+Apart from cleaning the data (life is beautiful which is referenced below) on python by removing columns and ordering font and values (dont in lab 1 and lab 2), Fuzzy Wuzzy and pandas datareader was also used to gather the stok price for the companies from 2004 - 2017.
+Python code was written to acquire the necessary stock price data that revolved around the data breach period.
+
+The bar chart "Companies showing different effects on Breaches on Share Price" was formulated by analyzing the stock price trend line over different years for each ticker symbol (company). Recording the change like Increase, Decrease, No Effect in stock price was analysed by looking at the trend line around the year of data breach.
 
 
 ## About the previous visualization
@@ -39,10 +49,22 @@ This visualization is simply an extension of the previous visualization as there
 + MSpy's share price was stable despite the data breach.
 + Talktalk showed that it was hit badly in terms of stock price during the year of data breach. This does not conclude or refute the claim entirely, as the claim is about a general question which is 'do security breaches really affect stock prices?'. This is one of the very few companies that has showed sudden and drastic decline in the stock prices.
 
+(NOTE: the bar graph is not displayed properly on Github, visit the tableau public link above to see the actual visualization)
+
+
 ## Conclusion
 
 Data breaches is simply not cared about as we can gather from the news.
 We can also say that the companies whose share price decreased were really outliers and financial market does not really punish security breaches.
+
+
+## References
+http://d.yimg.com/autoc.finance.yahoo.com/autoc?query={}&region=1&lang=en
+
+https://docs.google.com/spreadsheets/d/1Je-YUdnhjQJO_13r8iTeRxpU2pBKuV6RVRHoYCgiMfg/edit#gid=322165570
+
+http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
+
 
 
 
@@ -51,8 +73,6 @@ We can also say that the companies whose share price decreased were really outli
 Claim - The MSIS graduates from Santa Clara University - Leavey School of Business are best trained and equipped to compete in the industry
 
 Information in jupyter file Lab 4 has the evidence for the claim.
-
-
 
 
 
