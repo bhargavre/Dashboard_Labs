@@ -1,3 +1,96 @@
+# LATEST ASSIGNMENT - 8 
+## “SCU-MSIS Students, competent and equipped for and attested by the industry”
+
+
+## Introduction
+
+SCU’s MSIS program is the top 26th in the whole of the US
+List of courses offered at SCU includes business and data analytics, project management, database, visualization, cloud computing and many more.
+SCU MSIS graduates employed in the top firms.
+
+
+
+## About this visualization 
+
+This visualization is created to support the claim that the SCU-MSIS Students are competent and equipped for and attested by the industry.
+
+
+## Redesign Goal
+
+The Goal here is to redesign the previously made dashboard to a more comprehensive and perceptive visualization.
+
+
+### Data Wrangling and Reproducibility
+
+The Data Wrangling is done on Python which can be seen in the jupyter notebook (Lab8.ipynb) uploaded above. 
+Used requests to extract data from websites (mentioned in the jupyter notebook). Coming up with a logic to not only extract data but also to correctly format it and download it in terms of columns and rows was difficult. Some of the data about MSIS alumini was dynamic javascript and i attempted to use selenium but failed to extract. Due to this i had to manually create a spreadsheet inputting the data which was a little time consuming. 
+
+## About the previous visualization
+
+![Alt Text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Lab5.PNG)
+
+
+IT is an amazing visualization that shows 3 different metrics that recruiters and students can see and and make a decision about the MSIS at SCU. 
+It has too many colours and is not quite detailed out.
+
+
+## The Redesigned visualization
+
+![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Dashboard%209.png)
+
+Tableau link: https://public.tableau.com/shared/M4N72HFRM?:display_count=yes
+
+This visualization is a redesign of the previous visualization. This supports the same claim giving more details about each metric for example ranking which shows comparision between scu and San Jose state university which is present in the same area.
+
+## Warrant
+
+MSIS Ranking
+Looking at the rankings especially for MSIS across the US, SCU is ranked among the highest. The ranking is based on the faculty, performance of Students, courses offered and placements after masters. A good ranking indicates that SCU performs well on all these accounts.
+
+Skillset Match
+In the fact sheet, we see the minimum and most important set of skills needed by the industry in fields of information systems. These skill sets are offered in the MSIS program at SCU which means the students who finish the program are better equipped to match the industry needs.
+
+Hired by top companies
+The companies listed in this chart are those top companies in which SCU MSIS graduates have been absorbed in. This clearly shows that the MSIS students are sort after by the industry. 
+Sources of the data include independent and unbiased websites like linkedIn and bestmasters.com
+
+## Backing
+The courses at MSIS keep getting updated based on the needs of the industry. The courses are not the same as it was a few years back indicating SCU makes sure that that courses offered are relevant. SCU also hosts  job fairs throughout the year to encourage interaction of students and the hiring companies. This is inline with SCU’s commitment to serving industry needs.  
+
+## Qualifiers
+SCU-MSIS Students are surely very competent and equipped for the industry. This is  evident by the fact that they have been hired by some of the top firms in the industry.
+ 
+## Rebuttal/Reservations
+The dashboard shows that MSIS graduates are hired by the companies but there is no claim that says what skills they are using in the company. 
+It does not show if all the students of the MSIS program were able to find jobs. 
+It also does not indicate the feedback about the courses. It only says that it matches the industry need, but about the course itself there is no rating or feedback to indicate the quality of the course.
+It does not show the different recruiters who come to the university, but shows the kind of students who graduate so recruiters can come to SCU to select students.
+
+## Conclusion
+
+Students who graduate from the MSIS program at SCU are skilled, bright and competent enough to be hired into top firms and work with people who are among the best in the world.
+
+
+
+## References
+https://www.linkedin.com/school/10458916/
+
+http://higheredublog.com/top-universities-for-ms-in-mis-in-usa/
+
+https://www.scu.edu/business/ms-information-systems/
+
+http://study.com/articles/Top_Ranked_School_for_Information_Technology_-_San_Jose_CA.html
+
+https://www.forbes.com/colleges/santa-clara-university/
+
+https://www.scu.edu/business/undergraduates/community/global-fellows/placements/by-major/
+
+
+
+
+
+
+
 # LATEST ASSIGNMENT - 7 
 ## “The financial markets do not punish security breaches.”
 
