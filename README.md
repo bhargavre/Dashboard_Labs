@@ -91,7 +91,7 @@ https://www.scu.edu/business/undergraduates/community/global-fellows/placements/
 
 
 
-# LATEST ASSIGNMENT - 7 
+# ASSIGNMENT - 7 
 ## “The financial markets do not punish security breaches.”
 
 
@@ -162,7 +162,7 @@ http://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breache
 
 
 
-## LATEST ASSIGNMENT - 4
+## ASSIGNMENT - 4
 Claim - The MSIS graduates from Santa Clara University - Leavey School of Business are best trained and equipped to compete in the industry
 
 Information in jupyter file Lab 4 has the evidence for the claim.
