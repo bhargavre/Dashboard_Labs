@@ -88,9 +88,9 @@ Let us say the population of the US is P
 
 +	42% percent of US population are gamers = 0.42P are gamers
 
-+74.3% percent of US population are adults = 0.743P are adults
++ 74.3% percent of US population are adults = 0.743P are adults
 
-+71% percent of gamers in US are adults = 0.71*0.42P are adult gamers
++ 71% percent of gamers in US are adults = 0.71*0.42P are adult gamers
 
 Percentage (%) of Adults who are gamers is given by 
 
