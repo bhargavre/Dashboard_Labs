@@ -1,10 +1,9 @@
 ## Introduction
 
-He uses statistics as a drunken man uses lamp posts – for support rather than for illumination.
+'He uses statistics as a drunken man uses lamp posts – for support rather than for illumination'
  - Andrew Lang
 
 The same thing could be said of data. Data is extremely powerful and unfortunately, by manipulation, it can be used to support what we already believe or want to believe. Instead data should be used as a powerful source of knowledge and let it speak. The dashboards we design needs to do latter.
-
 
 
 ## My views on this visualization
@@ -53,19 +52,12 @@ In order to check if this claim has any credibility, one needs to get more data.
 
 ## Reason for Deception
 
-The Goal here is to redesign the visualization to strengthen the existing claim that reads "Flow of Global Migration"
-For an audience who is interested in migration, the existing visualization fails to give details and the information it presents is very overwhelming. There is no conclusion the user can draw from this visualization. The goal for the redesign was to leave the user with concrete information about the flow of people. The user should be able to say that in 2000 US was the most popular destination for migrants and the migrants came from China, India and Mexico. It should have enough data to interest a general reader and detailed enough to for a journalist or an economist to use this data and correlate it to other data. 
-For example, there have been a lot of studies that look at patterns of employment, education, economic growth, innovation over the years. 
-
-![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Redesign/Patents.png)
-
-The redesigned visualization will point out pattern of movement of people into a country very clearly and this information can be used to correlate it with the data presented above. This will be shown later after the redesigned visualization has been introduced.
 
 
 ## Data Wrangling
 
-The data was 2.376 MB with information about all the countries and regions and number of people coming in and out of the region in the years of 1990,1995, 2000 and 2005.  This data did not contain Cities/Areas which made it difficult to understand the flow from one region to the same region. Hence the flow within countries was not considered. The challenge with so much of data is visualization. Not all of this should be used in the dashboard because it will just overwhelm the user looking at the visualization. The right data needs to be picked and synthesized in order to give some meaningful data to the user.
-
+None of the data gathered needed any cleaning on Jupyter notebook. As mentioned above the original data was not enough to validate the credibility. To check if the claim is credible more data was gathered on population in USA and number of adult gamers from references mentioned below. The data from these references were manually extracted to excel as extracting in python was a challenge due to time constraints.
+Additionally a math calculation was done to find out the actual number of Adult gamers in the USA which is given under the Visualization Process section. 
 
 ## Visualization Process
 
@@ -98,24 +90,4 @@ The claim of the visualization is flow of migration. And the idea behind the red
 
 
 ## References
-http://conversableeconomist.blogspot.in/2014/01/
 
-http://voxeu.org/article/global-economic-slumps-and-migration
-
-http://www.nber.org/papers/w13229.pdf
-
-http://www.pewhispanic.org/2015/09/28/chapter-3-the-changing-characteristics-of-recent-immigrant-arrivals-since-1970/
-
-http://www.global-migration.info/
-
-https://en.wikipedia.org/wiki/Human_migration
-
-https://www.nap.edu/read/12860/chapter/12
-
-http://peoplemov.in/#t_AR
-
-http://flow.mmg.mpg.de/
-
-http://metrocosm.com/global-immigration-map/
-
-http://www.iom.int/world-migration
