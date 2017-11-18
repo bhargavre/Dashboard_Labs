@@ -33,14 +33,15 @@ Data Set 1
 
 The infographic that was created using this data set claimed that 53% of adults are gamers. This claim can be miss-constructed from the above data by filtering on Desktop usage and Adults, like we show below.
 
-(Actual image here)
-Link Here (makeover monday)
+![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Deception/deceptionorig.jpg)
+
+Link: https://www.forbes.com/sites/kevinanderton/2015/12/31/adults-vs-teens-video-game-edition-infographic/#7f55d43041b0
  
 Data Set 1 only gives information about what kind of devices each type of gamers use. For example it only says that of all the adult gamers, 53% of them use Desktop or Laptops for gaming. There is no data about the total number of gamers or the proportion of adult vs teens. From this data set the only information that can be gleaned is the following:
+
+![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Deception/device%20usage.png)
  
-(Image of 73% adults use desktop and 89% use game console) 
- 
-The claim that 53% of adults from this data is a clear miss representation of data. [as was done in https://www.forbes.com/sites/kevinanderton/2015/12/31/adults-vs-teens-video-game-edition-infographic/#7f55d43041b0]
+The claim that 53% of adults from this data is a clear miss representation of data. 
 One cannot say if this is true or not based on the data available.
 
 In order to check if this claim has any credibility, one needs to get more data. 
@@ -64,7 +65,7 @@ Additionally a math calculation was done to find out the actual number of Adult 
 Using the original data, the reproducibility of the dashboard supporting the claim was attempted. But as mentioned earlier the claim was mis-constructed. 
 
 The visualization below shows what the data actually refers to.
-(process 1 image)
+![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Deception/Deception_process1.png)
 
 As mentioned previously, in order to check if this claim has any credibility, one needs to get more data. 
 
@@ -102,21 +103,20 @@ Percentage (%) of Adults who are gamers is given by
 
 Using this calculation we get the bleow 
 
-( the read deal )
+![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Deception/real%20deal.png)
 
 
 ## The New Redesigned Visualization
 
-![Alt text]()
+![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Deception/Deception_dashboard_new.png)
 
-(Tableau Public): 
+(Tableau Public): https://public.tableau.com/views/Moreteensaregamersthanadults/Deception_dashboard?:embed=y&:display_count=yes&publish=yes
 
 This final visualization addresses all the above mentioned points. It shows how the original data was mis interpreted to highlight that there are more adults game than teens. But in actuality the data represented the usage of different devices by adults and teens to play games and that mostly adults use desktop/laptops whereas teens use gaming consoles. 
 
 It also shows a deception where by considering the population of adults and teen gamers in USA, we can actually prove that there are more teen gamers than adults.
 
 ## Conclusion
-We can claim from the data we have that 
 
 The claim of the visualization is that 39% of adults are gamers, refuting the claim that 53% of adults are gamers. 
 
