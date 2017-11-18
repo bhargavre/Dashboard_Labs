@@ -40,6 +40,8 @@ On further simplifying the previous visualization by considering the aesthetics 
 
 ![Alt Text](https://github.com/bhargavre/Dashboard_Labs/blob/master/MSIC%20in%20SCU%20Lab6_redo.png)
 
+(Tableau link): https://public.tableau.com/shared/TFWSNJCNF?:display_count=yes
+
 
 ## Warrant
 
