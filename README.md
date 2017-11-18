@@ -36,6 +36,10 @@ The walkthrough is really good but the viewer will have to click next to view th
 
 This visualization is a redesign of the previous visualization. This supports the same claim and is really structured and clearly divided into segments. All of the information (segments) needed for a recruiter is presented in an ordered structure and also eliminates the need to click next.
 
+On further simplifying the previous visualization by considering the aesthetics aspect the below is the final visualization supporting the same claim.
+
+![Alt Text](https://github.com/bhargavre/Dashboard_Labs/blob/master/MSIC%20in%20SCU%20Lab6_redo.png)
+
 
 ## Warrant
 
