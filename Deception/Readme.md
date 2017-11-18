@@ -87,7 +87,9 @@ Using the mathematical calculation below, a manual excel sheet was created with 
 Let us say the population of the US is P
 
 +	42% percent of US population are gamers = 0.42P are gamers
+
 +74.3% percent of US population are adults = 0.743P are adults
+
 +71% percent of gamers in US are adults = 0.71*0.42P are adult gamers
 
 Percentage (%) of Adults who are gamers is given by 
@@ -98,14 +100,9 @@ Percentage (%) of Adults who are gamers is given by
 
 = 39%
 
+Using this calculation we get the bleow 
 
-
-
-![Alt text]()
-
-Then the focus shifted to the migration paths. The paths in which the migrations were maximum. Since too many countries would make the data too unreadable, top 3 countries were picked. This one too lacked information about the other countries.
-
-![Alt text]()
+( the read deal )
 
 
 ## The New Redesigned Visualization
@@ -114,18 +111,22 @@ Then the focus shifted to the migration paths. The paths in which the migrations
 
 (Tableau Public): 
 
+This final visualization addresses all the above mentioned points. It shows how the original data was mis interpreted to highlight that there are more adults game than teens. But in actuality the data represented the usage of different devices by adults and teens to play games and that mostly adults use desktop/laptops whereas teens use gaming consoles. 
 
-The final one that addresses all these points, shows the top 5 countries where people migrated to and also shows from which countries they come from. And also the top 5 countries where people emigrate out of and the countries they go to. Choosing the top 5 was done by looking at top 10, 20 countries. It was observed that beyond the top 5 the numbers from the other countries were quite insignificant. 
-For example if one looks at the year 1995, it is very clear to see that United States was the country where most of the immigrants moved to. And It is also clear that the most number of people in this migration came from Mexico, Thailand, Guatemala and Philippines 
-With these numbers from this chart we can now correlate other information with respect to migration. As one example that was stated above about the innovations(patents), we can get the number of immigrants into US from China and India and correlate it to the contribution of migrants from these two countries in the field of innovation. 
-
-Below are some examples of such correlations. 
-![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Redesign/Dashboard%202.png)
+It also shows a deception where by considering the population of adults and teen gamers in USA, we can actually prove that there are more teen gamers than adults.
 
 ## Conclusion
+We can claim from the data we have that 
 
-The claim of the visualization is flow of migration. And the idea behind the redesign was to make sure that the visualization keeps up to this claim with accurate, concreate and relevant data so that this data can be used to correlate it with other observations in society. The claim should not just be a proof of migration but should present data that can be useful for further analysis.
+The claim of the visualization is that 39% of adults are gamers, refuting the claim that 53% of adults are gamers. 
 
 
 ## References
 
+https://www.forbes.com/sites/kevinanderton/2015/12/31/adults-vs-teens-video-game-edition-infographic/#7f55d43041b0
+
+https://www.polygon.com/2015/4/14/8415611/gaming-stats-2015
+
+https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf
+
+https://www.statista.com/statistics/189582/age-of-us-video-game-players-since-2010/
