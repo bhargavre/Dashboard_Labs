@@ -32,7 +32,7 @@ The walkthrough is really good but the viewer will have to click next to view th
 
 ## The Redesigned visualization
 
-![Alt Text](https://github.com/bhargavre/Dashboard_Labs/blob/master/MSIC%20in%20SCU%20Lab6%2B%2B.png)
+![Alt Text](https://github.com/bhargavre/Dashboard_Labs/blob/master/MSIC%20in%20SCU%20Lab6_re.png)
 
 This visualization is a redesign of the previous visualization. This supports the same claim and is really structured and clearly divided into segments. All of the information (segments) needed for a recruiter is presented in an ordered structure and also eliminates the need to click next.
 
