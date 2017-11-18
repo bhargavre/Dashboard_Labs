@@ -61,7 +61,39 @@ Additionally a math calculation was done to find out the actual number of Adult 
 
 ## Visualization Process
 
-There were many different visualizations that were tried. The first one focused on the country where the most of the immigration happened and went into the details of the effects of this migration in terms of employment, education, economy etc. But that meant there was no information about the other countries and the migration patterns there. 
+Using the original data, the reproducibility of the dashboard supporting the claim was attempted. But as mentioned earlier the claim was mis-constructed. 
+
+The visualization below shows what the data actually refers to.
+(process 1 image)
+
+As mentioned previously, in order to check if this claim has any credibility, one needs to get more data. 
+
+The information was found at 
+
+https://www.polygon.com/2015/4/14/8415611/gaming-stats-2015
+
+https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf
+
+https://www.statista.com/statistics/189582/age-of-us-video-game-players-since-2010/
+
+Using data gathered from the above we have the following information:
+•	42% percent of US population are gamers.
+•	74.3% percent of US population are adults.
+•	71% percent of gamers in US are adults.
+
+Using the mathematical calculation below, a manual excel sheet was created with new values
+Let us say the population of the US is P
+
+•	42% percent of US population are gamers => 0.42P are gamers
+•	74.3% percent of US population are adults. => 0.743P are adults
+•	71% percent of gamers in US are adults => 0.71*0.42P are adult gamers
+Percentage (%) of Adults who are gamers is given by 
+(Adult gamers/Adults)*100
+= ((0.71*.42P)/0.743P)*100
+= 39%
+
+
+
 
 ![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Redesign/Migration%20to%20US.png)
 
