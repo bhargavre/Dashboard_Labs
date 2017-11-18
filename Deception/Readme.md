@@ -11,24 +11,24 @@ The same thing could be said of data. Data is extremely powerful and unfortunate
 
 Consider the following data set
 Data Set 1
-Category     |   Gaming Device    |       Usage Rate
------------------------------------------------------
-Adults	  |  Desktop or Laptop Computer	|  0.73
-Adults	   |   Game Console	             | 0.53
-Adults	    |  Mobile Device	             | 0.35
-Adults	   | Portable Gaming Device	 |     0.35
-Non-Parents|	Desktop or Laptop Computer|	  0.35
-Non-Parents	|  Game Console	            |  0.22
-Non-Parents	 | Mobile Device	            |  0.16
-Non-Parents	 | Portable Gaming Device	    |0.1
-Parents	|    Desktop or Laptop Computer	 | 0.45
-Parents	 |     Game Console	              |0.41
-Parents	  |    Mobile Device	              |0.25
-Parents	   |   Portable Gaming Device	 |   0.21
-Teens	      |Desktop or Laptop Computer	|  0.76
-Teens	       | Game Console	             | 0.89
-Teens	        |Mobile Device	             | 0.5
-Teens	      |  Portable Gaming Device	   | 0.62
+Category     |   Gaming Device    |       Usage Rate|
+|---------|------------------------|--------------------|
+Adults	  |  Desktop or Laptop Computer	|  0.73|
+Adults	   |   Game Console	             | 0.53|
+Adults	    |  Mobile Device	             | 0.35|
+Adults	   | Portable Gaming Device	 |     0.35|
+Non-Parents|	Desktop or Laptop Computer|	  0.35|
+Non-Parents	|  Game Console	            |  0.22|
+Non-Parents	 | Mobile Device	            |  0.16|
+Non-Parents	 | Portable Gaming Device	    |0.1|
+Parents	|    Desktop or Laptop Computer	 | 0.45|
+Parents	 |     Game Console	              |0.41|
+Parents	  |    Mobile Device	              |0.25|
+Parents	   |   Portable Gaming Device	 |   0.21|
+Teens	      |Desktop or Laptop Computer	|  0.76|
+Teens	       | Game Console	             | 0.89|
+Teens	        |Mobile Device	             | 0.5|
+Teens	      |  Portable Gaming Device	   | 0.62|
 
 The infographic that was created using this data set claimed that 53% of adults are gamers. This claim can be miss-constructed from the above data by filtering on Desktop usage and Adults, like we show below.
 
