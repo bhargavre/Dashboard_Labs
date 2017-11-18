@@ -66,9 +66,9 @@ https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf
 
 https://www.statista.com/statistics/189582/age-of-us-video-game-players-since-2010/
 
-![Alt text](image 1)
-![Alt text](image 2)
-![Alt text](image 3)
+![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Deception/image1.png)
+![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Deception/image%202.png)
+![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Deception/image%203.png)
 
 None of the data gathered needed any cleaning on Jupyter notebook. As mentioned above the original data was not enough to validate the credibility. To check if the claim is credible more data was gathered on population in USA and number of adult gamers from references mentioned below. The data from these references were manually extracted to excel as extracting in python was a challenge due to time constraints.
 Additionally a math calculation was done to find out the actual number of Adult gamers in the USA which is given under the Visualization Process section. 
