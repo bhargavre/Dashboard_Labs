@@ -10,6 +10,7 @@ The same thing could be said of data. Data is extremely powerful and unfortunate
 ## My views on this visualization
 
 Consider the following data set
+
 Data Set 1
 
 | Category | Gaming Device | Usage Rate |
@@ -33,21 +34,24 @@ Data Set 1
 
 The infographic that was created using this data set claimed that 53% of adults are gamers. This claim can be miss-constructed from the above data by filtering on Desktop usage and Adults, like we show below.
 
+(Actual image here)
+Link Here (makeover monday)
  
 Data Set 1 only gives information about what kind of devices each type of gamers use. For example it only says that of all the adult gamers, 53% of them use Desktop or Laptops for gaming. There is no data about the total number of gamers or the proportion of adult vs teens. From this data set the only information that can be gleaned is the following:
+ 
+(Image of 73% adults use desktop and 89% use game console) 
  
 The claim that 53% of adults from this data is a clear miss representation of data. [as was done in https://www.forbes.com/sites/kevinanderton/2015/12/31/adults-vs-teens-video-game-edition-infographic/#7f55d43041b0]
 One cannot say if this is true or not based on the data available.
 
 In order to check if this claim has any credibility, one needs to get more data. 
 
-•	What percent of US population are gamers?
-•	What percent of US population are adults?
-•	What percent of gamers in US are adults?
++	What percent of US population are gamers?
++	What percent of US population are adults?
++	What percent of gamers in US are adults?
 
 
-
-## Reason for Redesign
+## Reason for Deception
 
 The Goal here is to redesign the visualization to strengthen the existing claim that reads "Flow of Global Migration"
 For an audience who is interested in migration, the existing visualization fails to give details and the information it presents is very overwhelming. There is no conclusion the user can draw from this visualization. The goal for the redesign was to leave the user with concrete information about the flow of people. The user should be able to say that in 2000 US was the most popular destination for migrants and the migrants came from China, India and Mexico. It should have enough data to interest a general reader and detailed enough to for a journalist or an economist to use this data and correlate it to other data. 
