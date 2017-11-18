@@ -33,15 +33,14 @@ Data Set 1
 
 The infographic that was created using this data set claimed that 53% of adults are gamers. This claim can be miss-constructed from the above data by filtering on Desktop usage and Adults, like we show below.
 
-![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Deception/deceptionorig.jpg)
+![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Deception/deception.png)
 
-Link: https://www.forbes.com/sites/kevinanderton/2015/12/31/adults-vs-teens-video-game-edition-infographic/#7f55d43041b0
- 
 Data Set 1 only gives information about what kind of devices each type of gamers use. For example it only says that of all the adult gamers, 53% of them use Desktop or Laptops for gaming. There is no data about the total number of gamers or the proportion of adult vs teens. From this data set the only information that can be gleaned is the following:
 
 ![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Deception/device%20usage.png)
  
-The claim that 53% of adults from this data is a clear miss representation of data. 
+The claim that 53% of adults from this data is a clear miss representation of data was done in https://www.forbes.com/sites/kevinanderton/2015/12/31/adults-vs-teens-video-game-edition-infographic/#7f55d43041b0
+
 One cannot say if this is true or not based on the data available.
 
 In order to check if this claim has any credibility, one needs to get more data. 
