@@ -24,13 +24,16 @@ The Data Wrangling is done on Python which can be seen in the jupyter notebook (
 
 ## About the previous visualization
 
+Tableau Link: https://public.tableau.com/views/labassignment6_MSIS_SCU/MSISinSCU?:embed=y&:display_count=yes
+
 IT is an amazing visualization that gives a story (structural walkthrough) which displays why MSIS at SCU is really good. From ranking – skills – ratings – testimonials – alumini profile and placements.
 The walkthrough is really good but the viewer will have to click next to view the next segment.
 
 
 ## The Redesigned visualization
 
-Tableau link:  
+![Alt Text] (https://github.com/bhargavre/Dashboard_Labs/blob/master/MSIC%20in%20SCU%20Lab6%2B%2B.png)
+
 This visualization is a redesign of the previous visualization. This supports the same claim and is really structured and clearly divided into segments. All of the information (segments) needed for a recruiter is presented in an ordered structure and also eliminates the need to click next.
 
 
