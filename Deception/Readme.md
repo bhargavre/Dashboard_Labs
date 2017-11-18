@@ -77,36 +77,42 @@ https://www.census.gov/prod/cen2010/briefs/c2010br-03.pdf
 https://www.statista.com/statistics/189582/age-of-us-video-game-players-since-2010/
 
 Using data gathered from the above we have the following information:
-•	42% percent of US population are gamers.
-•	74.3% percent of US population are adults.
-•	71% percent of gamers in US are adults.
+
++	42% percent of US population are gamers.
++	74.3% percent of US population are adults.
++	71% percent of gamers in US are adults.
 
 Using the mathematical calculation below, a manual excel sheet was created with new values
+
 Let us say the population of the US is P
 
-•	42% percent of US population are gamers => 0.42P are gamers
-•	74.3% percent of US population are adults. => 0.743P are adults
-•	71% percent of gamers in US are adults => 0.71*0.42P are adult gamers
++	42% percent of US population are gamers = 0.42P are gamers
++74.3% percent of US population are adults = 0.743P are adults
++71% percent of gamers in US are adults = 0.71*0.42P are adult gamers
+
 Percentage (%) of Adults who are gamers is given by 
+
 (Adult gamers/Adults)*100
+
 = ((0.71*.42P)/0.743P)*100
+
 = 39%
 
 
 
 
-![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Redesign/Migration%20to%20US.png)
+![Alt text]()
 
 Then the focus shifted to the migration paths. The paths in which the migrations were maximum. Since too many countries would make the data too unreadable, top 3 countries were picked. This one too lacked information about the other countries.
 
-![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Redesign/Top%20Migration%20Paths.png)
+![Alt text]()
 
 
 ## The New Redesigned Visualization
 
-![Alt text](https://github.com/bhargavre/Dashboard_Labs/blob/master/Redesign/Dashboard%203.png)
+![Alt text]()
 
-(Tableau Public): https://public.tableau.com/views/Redesign-GlobalFlowofMigration/Dashboard3?:embed=y&:display_count=yes&publish=yes
+(Tableau Public): 
 
 
 The final one that addresses all these points, shows the top 5 countries where people migrated to and also shows from which countries they come from. And also the top 5 countries where people emigrate out of and the countries they go to. Choosing the top 5 was done by looking at top 10, 20 countries. It was observed that beyond the top 5 the numbers from the other countries were quite insignificant. 
